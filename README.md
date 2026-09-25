@@ -1,6 +1,6 @@
 # Serverless WebSocket Worker Example 
 
-This WebSocket worker example allows direct communication with a serverless worker without using RunPod’s default REST API. It enables real-time, bidirectional communication between a websocket client and the worker.
+This WebSocket worker example allows direct communication with a serverless worker without using Runpod’s default REST API. It enables real-time, bidirectional communication between a websocket client and the worker.
 
 ## How It Works
 
